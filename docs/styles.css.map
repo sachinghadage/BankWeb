@@ -1,0 +1,1 @@
+{"version":3,"sources":["./src/styles.css"],"names":[],"mappings":"AAAA,8EAA8E;AAC9E;;IAEI,SAAS;IACT,UAAU;IACV,yBAAyB;AAC7B,C","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\r\nhtml, body {\r\n    \r\n    margin: 0;\r\n    padding: 0;\r\n    background-color: #9bfaff;\r\n}"],"sourceRoot":"webpack:///"}
